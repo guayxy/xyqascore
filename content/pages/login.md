@@ -2,7 +2,7 @@
 type: PageLayout
 title: Demo login page
 sections: []
-slug: empty
+slug: login
 isDraft: false
 seo:
   type: Seo
