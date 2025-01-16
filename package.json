@@ -20,7 +20,13 @@
         "react": "^19.0.0",
         "react-dom": "^19.0.0",
         "swiper": "^11.1.4",
-        "tailwindcss": "^3.4.3"
+        "tailwindcss": "^3.4.3",
+        "@koa/router": "^13.0.0",
+        "koa": "^2.15.3",
+        "koa-logger": "^3.2.1",
+        "koa-session": "^6.4.0",
+        "koa-static": "^5.0.0",
+        "openid-client": "^5.6.5"
     },
     "devDependencies": {
         "@base2/pretty-print-object": "^1.0.2",
